@@ -4,7 +4,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-rubio-garcia/) f
 
 <details>
 <summary>
-  More stuff about me
+  More stuff about me.
 </summary>
   
   ### Languages 🌐

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/daniel-rubio-garcia/) for a more detailed description of my full work experience, education and certification.
+Find me on [LinkedIn](https://www.linkedin.com/in/daniel-rubio-garcia/) for a more detailed description of my full work experience, education and certification.
 
 <details>
 <summary>
